@@ -1,6 +1,7 @@
 #Task Management System
 
 The Task Management System is a web-based application that allows individuals or teams to manage their tasks and projects efficiently. This project is designed to provide a comprehensive platform for managing tasks, increasing productivity and enhancing team collaboration.
+Long term goal of this project is a Gantt Chart.
 
 ## Features
 
